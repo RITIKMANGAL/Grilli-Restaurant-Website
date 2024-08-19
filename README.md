@@ -48,4 +48,4 @@ Grilli is a modern, fully responsive website for a restaurant. The site aims to 
 
 ## Live Demo
 
-Check out the live demo of the Grilli Restaurant Website [here](https://vercel.com/ritikmangals-projects/grilli-restaurant-website/Hzb4kQkgrNbLWmfLBdXWF9XpBPd7).
+Check out the live demo of the Grilli Restaurant Website [here]([https://vercel.com/ritikmangals-projects/grilli-restaurant-website/Hzb4kQkgrNbLWmfLBdXWF9XpBPd7](https://grilli-restaurant-website-rosy.vercel.app/)).
